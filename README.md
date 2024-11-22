@@ -1,5 +1,3 @@
-![WhatsApp Image 2024-11-22 at 12 12 18_0ff7fd9b](https://github.com/user-attachments/assets/0fa0741b-5432-418c-baf9-66a5d1096563)# Deep Neural Network for Malaria Infected Cell Recognition
-
 ## AIM
 
 To develop a deep neural network for Malaria infected cell recognition and to analyze the performance.
