@@ -26,19 +26,19 @@ Split the training and testing folders.
 ### STEP 4:
 Perform image data generation methods.
 
-### STEP-5:
+### STEP 5:
 Build the convolutional neural network model
 
-### STEP-6:
+### STEP 6:
 Train the model with the training data
 
-### STEP-7:
+### STEP 7:
 Plot the performance plot
 
 ### STEP-8:
 Evaluate the model with the testing data using probability prediction(uninfected-> prob>0.5,parasitized-> <=0.5)
 
-### STEP-9:
+### STEP 9:
 Fit the model and predict the sample input.
 
 
